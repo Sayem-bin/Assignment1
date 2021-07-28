@@ -1,0 +1,75 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.highlight{
+    color:orangered ;
+}
+h1{
+    font-size: 40px;
+    color:rgb(121, 118, 118);
+}
+
+.section1{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width{
+    width: 50%;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+
+.half-width img{
+    width: 100%;
+}
+
+.button{
+    background-image: linear-gradient(orange,salmon);
+    color:white;
+    border-radius: 20px;
+    padding: 10px 40px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+#image{
+    width: 30%;
+    margin-left: 150px;
+}
+
+.banner-one{
+    background-image: url(food-network/images/shapes/7.png);  
+    background-size:100% 100%;
+    
+}
+
+h2{
+    color: rgb(117, 115, 115);
+    font-weight: bold;
+}
+#recipe{
+    text-align: center;
+}
+
+.favt-recipe{
+    text-align: center;
+}
+
+.half-width2{
+    width: 20%;
+}
+
+.recipe1{
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px gray;
+    padding: 20px;
+}
+.section3{
+    display: flex;
+    margin-left: 140px;
+}
