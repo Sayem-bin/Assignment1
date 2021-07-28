@@ -71,5 +71,20 @@ h2{
 }
 .section3{
     display: flex;
-    margin-left: 140px;
+    box-shadow:10px 10px 30px gray;
+    border-radius: 10px;
+    margin: 40px;
+    padding: 50px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    margin-top: 80px;
+    padding: 20px;
+}
+
+footer p{
+    color: white;
+    font-size: 12px;
 }
